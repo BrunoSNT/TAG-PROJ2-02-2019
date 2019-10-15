@@ -5,19 +5,21 @@
 ### Bruno Sanguinetti Regadas de Barros (18/0046063)
 ### Nayara SIlva (XX/0000000)
 
+## Compilação
+### Makefile
 #### No diretório do programa:
-
-Compilação - Makefile
 ```
 	$ make
 ```
-Execução
+## Execução
 ```
 	$ ./main
 ```
 
-Imagem - Graphviz - Gerada ao executar o código pela função criaDot() no arquivo ordenacao.cpp / ordenacao.h
-preenche o arquivo graphviz.dot com as diretrizes para a geração da imagem
+## Imagem 
+### Graphviz
+Gerada ao executar o código pela função criaDot() no arquivo ordenacao.cpp / ordenacao.h
+preenche o arquivo graphviz.dot com as diretrizes para a geração da image
 ```
 	$ dot -Tpng graphviz.dot -o imagem.png	
 ```
