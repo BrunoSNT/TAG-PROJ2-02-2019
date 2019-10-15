@@ -1,0 +1,413 @@
+graph
+[
+  node
+  [
+    id 1
+    nome Calculo_1
+    creditos 6
+    codigo 101010
+  ]
+  node
+  [
+    id 2
+    nome Introducao_a_Sistemas_Computacionais
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 3
+    nome Fundamentos_Teoricos_da_Computacao
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 4
+    nome Algoritmos_e_Programacao_de_Computadores
+    creditos 6
+    codigo 
+  ]
+  node
+  [
+    id 5
+    nome Informática_e_Sociedade
+    creditos 2
+    codigo 
+  ]
+  node
+  [
+    id 6
+    nome Circuitos_Lógicos
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 7
+    nome Laboratório_de_Circuitos_Lógicos
+    creditos 2
+    codigo
+  ]
+  node
+  [
+    id 8
+    nome Estruturas_de_Dados
+    creditos 4
+    codigo
+  ]
+  node
+  [
+    id 9
+    nome Calculo_2
+    creditos 6
+    codigo
+  ]
+  node
+  [
+    id 10
+    nome Introducao_a_Álgebra_Linear
+    creditos 4
+    codigo
+  ]
+  node
+  [
+    id 11
+    nome Organizacao_e_Arquitetura_de_Computadores
+    creditos 4
+    codigo
+  ]
+  node
+  [
+    id 12
+    nome Técnicas_de_Programacao_1
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 13
+    nome Álgebra_1
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 14
+    nome Cálculo_Numérico
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 15
+    nome Probabilidade_e_Estatística
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 16
+    nome Lógica_Computacional_1
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 17
+    nome Técnicas_de_Programacao_2
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 18
+    nome Organizacao_de_Arquivos
+    creditos 4
+    codigo
+  ]
+  node
+  [
+    id 19
+    nome Teoria_e_Aplicacao_de_Grafos
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 20
+    nome Redes_de_Computadores
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 21
+    nome Linguagens_de_Programacao
+    creditos 4
+    codigo
+  ]
+  node
+  [
+    id 22
+    nome Programacao_Concorrente
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 23
+    nome Engenharia_de_Software
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 24
+    nome Bancos_de_Dados
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 25
+    nome Introducao_a_Inteligência_Artificial
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 26
+    nome Software_Básico
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 27
+    nome Fundamentos_de_Sistemas_Operacionais
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 28
+    nome Autômatos_e_Computabilidade
+    creditos 6
+    codigo 
+  ]
+  node
+  [
+    id 29
+    nome Sistemas_de_Informacao
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 30
+    nome Computacao_Experimental
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 31
+    nome Projeto_e_Análise_de_Algoritmos
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 32
+    nome Compiladores
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 33
+    nome Seguranca_Computacional
+    creditos 4
+    codigo 
+  ]
+  node
+  [
+    id 34
+    nome Metodologia_Científica
+    creditos 2
+    codigo
+  ]
+  node
+  [
+    id 35
+    nome Tópicos_Avancados_em_Computadores
+    creditos 2
+    codigo
+  ]
+  aresta
+  [
+    source 1
+    target 9
+  ]
+  aresta
+  [
+    source 9
+    target 14
+  ]
+  aresta
+  [
+    source 4
+    target 8
+  ]
+  aresta
+  [
+    source 6
+    target 11
+  ]
+  aresta
+  [
+    source 7
+    target 11
+  ]
+  aresta
+  [
+    source 13
+    target 28
+  ]
+  aresta
+  [
+    source 1
+    target 15
+  ]
+  aresta
+  [
+    source 1
+    target 31
+  ]
+  aresta
+  [
+    source 9
+    target 20
+  ]
+  aresta
+  [
+    source 20
+    target 33
+  ]
+  aresta
+  [
+    source 15
+    target 20
+  ]
+  aresta
+  [
+    source 15
+    target 18
+  ]
+  aresta
+  [
+    source 15
+    target 30
+  ]
+  aresta
+  [
+    source 8
+    target 30
+  ]
+  aresta
+  [
+    source 8
+    target 18
+  ]
+  aresta
+  [
+    source 8
+    target 29
+  ]
+  aresta
+  [
+    source 8
+    target 16
+  ]
+  aresta
+  [
+    source 8
+    target 25
+  ]
+  aresta
+  [
+    source 8
+    target 19
+  ]
+  aresta
+  [
+    source 8
+    target 31
+  ]
+  aresta
+  [
+    source 8
+    target 21
+  ]
+  aresta
+  [
+    source 8
+    target 26
+  ]
+  aresta
+  [
+    source 8
+    target 12
+  ]
+  aresta
+  [
+    source 12
+    target 17
+  ]
+  aresta
+  [
+    source 12
+    target 23
+  ]
+  aresta
+  [
+    source 17
+    target 22
+  ]
+  aresta
+  [
+    source 22
+    target 27
+  ]
+  aresta
+  [
+    source 11
+    target 22
+  ]
+  aresta
+  [
+    source 11
+    target 26
+  ]
+  aresta
+  [
+    source 26
+    target 32
+  ]
+  aresta
+  [
+    source 21
+    target 32
+  ]
+  aresta
+  [
+    source 28
+    target 32
+  ]
+  aresta
+  [
+    source 18
+    target 24
+  ]
+]
