@@ -21,6 +21,7 @@ preenche o arquivo graphviz.dot com as diretrizes para a geração da imagem
 ```
 	$ dot -Tpng graphviz.dot -o imagem.png	
 ```
+diretório/arquivo saída
 ```
 	../TAG-PROJ2-02-2019/imagem.png
 ```
